@@ -7,7 +7,7 @@ db();
 
 
 
-const studentRoute = require("./Routes/students");
+const studentRoute = require("./Routes/student");
 const mentorRoute = require("./Routes/mentor");
 const mentortoStudent = require("./Routes/mentortoStudent");
 
